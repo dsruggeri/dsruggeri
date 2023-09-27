@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsruggeri
-- 👀 I’m interested in learnin Full Stack Developer
-- 🌱 I’m currently learning JavaScript and Node.js
+- 👀 I’m interested in learnin Full Stack Developer (Javascript, Node.js, MySQL)
+- 🌱 I’m currently learning React.js
 
 
 
